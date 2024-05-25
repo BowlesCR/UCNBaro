@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mods name="UCN Mk-14">
+<mods name="U.C.N_Mk14.2">
   <Vanilla />
-  <Workshop name="Immersive Crates" id="3239164008" />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="BaRolePlay-FORK" id="2971936426" />
-  <Workshop name="Soundproof Walls" id="3153737715" />
   <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
   <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="BetterHealthUI (Updated)" id="3231293294" />
-  <Workshop name="Immersive Diving Gear - Enhanced Reactors Compatibility Patch" id="3235235088" />
+  <Workshop name="Storage Icons" id="2920200449" />
+  <Workshop name="Soundproof Walls" id="3153737715" />
+  <Workshop name="Immersive Crates" id="3239164008" />
   <Workshop name="Enhanced Reactors Lua" id="3225277166" />
   <Workshop name="Hungry Europans - Enforced" id="3018201543" />
   <Workshop name="Hungry Europans - Neurotrauma Compatibility Patch" id="3222593240" />
   <Workshop name="Hungry Europans" id="2954998725" />
+  <Workshop name="DynamicEuropa - Default Level Size Patch" id="2927140188" />
   <Workshop name="DynamicEuropa" id="2532991202" />
   <Workshop name="Immersive Ignitables" id="3217556378" />
-  <Workshop name="Immersive Diving Gear" id="3074045632" />
   <Workshop name="Immersive Sonar UI - A Real Sonar Add-On" id="3172965454" />
   <Workshop name="Real Sonar" id="2936760984" />
-  <Workshop name="Immersive Diving Gear - Real Sonar Compatibility Patch" id="3074073458" />
   <Workshop name="Immersive Repairs Lua patch" id="3238465515" />
   <Workshop name="Immersive Repairs" id="3114087512" />
   <Workshop name="Improved  Stun" id="3005836987" />
   <Workshop name="Pill Bottles - NT Pharmacy Add-On" id="3213542162" />
   <Workshop name="NT Pharmacy" id="2804655816" />
   <Workshop name="Neurotrauma" id="3190189044" />
-  <Workshop name="Immersive Ammunition Boxes" id="3089776991" />
   <Workshop name="Enhanced Immersion" id="2968896556" />
+  <Workshop name="Immersive Ammunition Boxes" id="3089776991" />
   <Workshop name="Artifacts and Ruins Enhanced" id="3218219821" />
-  <Workshop name="Storage Icons" id="2920200449" />
   <Workshop name="PlantsPlus" id="2593694178" />
   <Workshop name="RB-Perca" id="2970584750" />
-  <Workshop name="SSR - 4.5 Corvus MK.II" id="3221676358" />
-  <Workshop name="SSA - 8.5 Lupus MK.II" id="3239524444" />
 </mods>
