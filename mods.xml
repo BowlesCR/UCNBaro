@@ -3,7 +3,6 @@
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="BaRolePlay-FORK" id="2971936426" />
-  <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
   <Workshop name="Performance Fix" id="2701251094" />
   <Workshop name="BetterHealthUI (Updated)" id="3231293294" />
   <Workshop name="Storage Icons" id="2920200449" />
@@ -29,4 +28,6 @@
   <Workshop name="Artifacts and Ruins Enhanced" id="3218219821" />
   <Workshop name="PlantsPlus" id="2593694178" />
   <Workshop name="RB-Perca" id="2970584750" />
+  <Workshop name="SSR - 4.5 Corvus MK.II" id="3221676358" />
+  <Workshop name="SSA - 8.5 Lupus MK.II" id="3239524444" />
 </mods>
